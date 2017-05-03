@@ -1,0 +1,19 @@
+.table-header {
+    text-align: center;
+    background: #a3d7a3;
+}
+
+table {
+    border: solid 1px #333333;
+    margin: auto;
+    width: 300px;
+}
+
+table td {
+    padding: 10px;
+}
+
+.form-group {
+    text-align: center;
+}
+
